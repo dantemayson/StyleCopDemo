@@ -1,0 +1,1 @@
+"# StyleCop.Demo" 

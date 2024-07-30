@@ -1,0 +1,35 @@
+﻿[*.cs]
+
+# Enforce single-line comment spacing
+dotnet_diagnostic.SA1005.severity = error
+
+# Disallow trailing whitespace
+dotnet_diagnostic.SA1028.severity = error
+
+# Ensure a blank line after a closing brace
+dotnet_diagnostic.SA1513.severity = error
+
+# Element should begin with an uppercase letter
+dotnet_diagnostic.SA1300.severity = error
+
+# Interface names should begin with 'I'
+dotnet_diagnostic.SA1302.severity = error
+
+# Braces for multi-line statements must not share a line
+dotnet_diagnostic.SA1500.severity = error
+
+# Statement should not use unnecessary parenthesis
+dotnet_diagnostic.SA1119.severity = error
+
+# Prefix local calls with 'this.'
+dotnet_diagnostic.SA1101.severity = error
+
+# Use built-in type alias
+dotnet_diagnostic.SA1121.severity = error
+
+# Closing generic brackets should be spaced correctly
+dotnet_diagnostic.SA1015.severity = error
+
+# Code must not contain multiple consecutive blank lines
+dotnet_diagnostic.SA1507.severity = error
+
